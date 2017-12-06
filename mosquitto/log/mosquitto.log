@@ -1,0 +1,12 @@
+1512571856: mosquitto version 1.4.10 (build date 2016-10-26 14:35:35+0000) starting
+1512571856: Config loaded from /mosquitto/config/mosquitto.conf.
+1512571856: Opening ipv4 listen socket on port 1883.
+1512571856: Opening ipv6 listen socket on port 1883.
+1512572078: Error in poll: Interrupted system call.
+1512572078: mosquitto version 1.4.10 terminating
+1512572269: mosquitto version 1.4.10 (build date 2016-10-26 14:35:35+0000) starting
+1512572269: Config loaded from /mosquitto/config/mosquitto.conf.
+1512572269: Opening ipv4 listen socket on port 1883.
+1512572269: Opening ipv6 listen socket on port 1883.
+1512572295: Error in poll: Interrupted system call.
+1512572295: mosquitto version 1.4.10 terminating
